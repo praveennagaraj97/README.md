@@ -5,7 +5,7 @@
 
 I am a Web Developer 👨‍💻, currently, I work full time 💼 [@Zartek](https://www.zartek.in/).
 
-#### Tech stack I love the most ❤❤❤
+#### Techstack I love the most ❤❤❤
 
 <p>
 
@@ -26,7 +26,7 @@ I am a Web Developer 👨‍💻, currently, I work full time 💼 [@Zartek](htt
 
 </p>
 
-#### Other tech stack I work with ⚡
+#### Other techstack I work with ⚡
 
 <p>
 <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white"/>
