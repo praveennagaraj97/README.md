@@ -36,15 +36,17 @@ I am a Web Developer 👨‍💻, currently, I work full time 💼 [@Zartek](htt
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
 <img alt="socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
 <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white" />
+ <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white" />
 <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js&logoColor=white" />
 <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00C58E?style=flat&logo=Nuxt.js&logoColor=white" />
 <img alt="Travis CI" src="https://img.shields.io/badge/-Travis CI-3EAAAF?style=flat&logo=Travis-CI&logoColor=white" />
+  <img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/>
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
 <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
 <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?&style=flat&logo=vercel&logoColor=white"/>
 <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black" />
 <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white" />
 <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=Strapi&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
