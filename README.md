@@ -16,6 +16,7 @@ I am a Web Developer 👨‍💻, currently, I work full time 💼 [@Zartek](htt
 <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white"/>
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=red"/>
+<img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=flat&logo=nestjs&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=Html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=flat&logo=docker&logoColor=white"/>
