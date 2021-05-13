@@ -14,6 +14,7 @@ I am a Web Developer | ios Developer 👨‍💻, currently, I work full time �
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
 <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+<img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white" />
 <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white"/>
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=red"/>
 <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=flat&logo=nestjs&logoColor=white" />
@@ -37,7 +38,6 @@ I am a Web Developer | ios Developer 👨‍💻, currently, I work full time �
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
 <img alt="socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
 <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white" />
- <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white" />
 <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js&logoColor=white" />
 <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00C58E?style=flat&logo=Nuxt.js&logoColor=white" />
 <img alt="Travis CI" src="https://img.shields.io/badge/-Travis CI-3EAAAF?style=flat&logo=Travis-CI&logoColor=white" />
