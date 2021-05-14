@@ -50,5 +50,4 @@ I am a Web Developer | ios Developer 👨‍💻, currently, I work full time �
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black" />
 <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white" />
 <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=Strapi&logoColor=white" />
-<img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
 </p>
