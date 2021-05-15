@@ -3,7 +3,7 @@
 
 ### I am [Praveen]() 👨‍💻
 
-I am a Web Developer | ios Developer 👨‍💻, currently, I work full time 💼 [@Zartek](https://www.zartek.in/).
+I am a Web Developer | iOS Developer 👨‍💻, currently, I work full time 💼 [@Zartek](https://www.zartek.in/).
 
 #### Techstack I love the most ❤❤❤
 
