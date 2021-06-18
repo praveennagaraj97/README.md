@@ -2,8 +2,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="48" style="margin-bottom: -4px"/>
 
 ### I am [Praveen]() 👨‍💻
-
-I am a Web Developer | iOS Developer 👨‍💻
+    Web Developer | iOS Developer 👨‍💻
 #### Techstack I love the most ❤❤❤
 
 <p>
